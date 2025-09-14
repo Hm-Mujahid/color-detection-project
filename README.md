@@ -32,24 +32,32 @@ color-detection-project/
 ```bash
 git clone https://github.com/Hm-Mujahid/color-detection-project.git
 cd color-detection-project
+```
 
 2️⃣ Create virtual environment (optional but recommended)
+```bash
 python -m venv venv
 source venv/bin/activate   # On Mac/Linux
 venv\Scripts\activate      # On Windows
+```
 
 3️⃣ Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
 4️⃣ Run the script
+```bash
 python box_color_detector.py box.png
+```
 
 🖼 Example Output
 
 Output:
-
+```bash
 Detected Box Color: Red
 Average BGR value: (48, 60, 236)
+```
 
 📌 Requirements
 
