@@ -58,6 +58,7 @@ Output:
 Detected Box Color: Red
 Average BGR value: (48, 60, 236)
 ```
+---
 
 📌 Requirements
 
@@ -66,16 +67,18 @@ Python 3.x
 OpenCV
 
 NumPy
-
+---
 Install with:
 
 pip install -r requirements.txt
 
+---
 📜 License
 
 This project is licensed under the MIT License.
 Feel free to use, modify, and share!
 
+---
 🤝 Contributing
 
 Pull requests are welcome! For major changes, open an issue first to discuss.
